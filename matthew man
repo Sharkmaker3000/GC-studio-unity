@@ -1,0 +1,11 @@
+GC‑Studio‑Unity/
+├── Assets/
+│   ├── Scenes/
+│   │   ├── MainMenu.unity
+│   │   └── EastFalls.unity
+│   ├── Scripts/
+│   ├── Prefabs/
+│   └── Materials/
+├── ProjectSettings/
+├── README.md
+└── .gitignore
